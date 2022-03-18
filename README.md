@@ -25,10 +25,4 @@ _"Item, AnotherItem, FinalItem"_ -> _"Item, another item and final item"_
 
 ## Challenge 3
 
-We would like you to make the branch locator:
-
-- show the 5 nearest branches instead of just 1
-- zoom into the area of the 5 branches when the input changes
-- make the display look like the supplied visual below
-
-<img src="./feature.png" width="443" alt="Updated map view" />
+We would like you to make the branch locator show the 5 nearest branches instead of just 1
