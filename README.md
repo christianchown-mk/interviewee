@@ -2,7 +2,7 @@
 
 This is the final stage of the technical interview we pose for prospective React Native candidates to join our team at Santander.
 
-To start with, we would like you to clone the <https://github.com/christianchown-mk/rn-challenge> repo. Then, for each of the 3 tasks below please **create a new branch** in your repo. Do not worry about conflicts between your branches.
+To start with, we would like you to clone the <https://github.com/christianchownsan/rn-challenge> repo. Then, for each of the 3 tasks below please **create a new branch** in your repo. Do not worry about conflicts between your branches.
 
 When you have completed as much as the challenges as you want (don't spend more time than you feel comfortable with), push your branches and please email us the link to your repository.
 
