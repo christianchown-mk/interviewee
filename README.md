@@ -14,8 +14,8 @@ Using prop drilling from `<App />` into `<Map />` and `<BranchDetails />` of the
 
 We would like you to
 
-- move the logic for `closest` out of `<App />` into a `<ClosestBranchProvider />` for `<App />` to use, and
-- then inject the value into `<Map />` and `<BranchDetails />` via a `useClosestBranch()` hook
+- move the useState/useEffect logic for `closest` out of `<App />` into a `<ClosestBranchProvider />` for `<App />` to use, and
+- then inject the `closest` value into `<Map />` and `<BranchDetails />` via a `useClosestBranch()` hook
 
 ## Challenge 2
 
